@@ -8,8 +8,8 @@ I'm a DevOps Engineer, Systems Analyst. I'm passionate about sharing knowledge, 
 
 - 😊 Pronouns: She/her
 - 🌱 I’m currently learning OSS contribution,Linux and Cloud Engineering/DevOps.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: DevOps Engineer, Systems Analyst, Cloud Engineer or SRE (Intern or Junior level).
+- 😊 I’m  always looking to contribute to  open source projects, hackathons and Devops opportunities.
+- 💼 Job interests: DevOps Engineer, Systems Analyst, Cloud Engineer or SRE.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1_0ah88niRZtBvCtUNxMdyMzEUmpOXLRbCMk0gdhwSkM/edit?usp=sharing) and contact me by gloriaigadube@gmail.com.
 
 ---
